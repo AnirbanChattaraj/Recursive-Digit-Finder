@@ -39,6 +39,6 @@ Anyone improving their understanding of function flow and stack behavior
 
 🧬 Author
 
-👤 Anirban
+👤 Anirban Chattaraj
 💻 Passionate about mastering programming logic, recursion, and problem-solving through C and beyond.
 ✨ “Recursion is not just code calling itself — it’s logic finding its own path.”
